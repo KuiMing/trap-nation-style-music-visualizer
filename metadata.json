@@ -1,0 +1,5 @@
+{
+  "name": "Trap Nation-Style Music Visualizer",
+  "description": "A browser-based application that generates dynamic, beat-synchronized music videos in real time. Upload audio and a logo, customize visual effects, and export high-quality videos.",
+  "requestFramePermissions": []
+}
